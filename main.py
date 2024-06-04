@@ -6,8 +6,8 @@ import os
 import pandas as pd
 
 # Token dan username bot
-TOKEN: Final = '6862559344:AAHYZG_2VSnYsdyArs62WogXHRLLQxdBMkw'
-BOT_USERNAME: Final = '@yoursafetybelt_teddyBot'
+TOKEN: Final = '(bottoken)'
+BOT_USERNAME: Final = '@(yourbotusername)'
 
 # Define stages
 NAME, CHILD_NAME, RELATIONSHIP, ID_SABUK, GENDER, CONFIRM, EDIT_CHOICE, CONNECT, MY_ACCOUNT = range(9)
